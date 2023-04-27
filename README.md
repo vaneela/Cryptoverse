@@ -1,5 +1,4 @@
-Hi,
-Welcome
+
 
 Shows top 10 Cryptocurrency on homepage.
 All stats of  cryptocurrency.
